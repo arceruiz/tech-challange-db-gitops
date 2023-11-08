@@ -8,6 +8,3 @@ variable "secret_key" {
 variable "region" {
     description = "AWS region"
 }
-variable "env_name" {
-  description = "Environment name"
-}
